@@ -1,1 +1,1 @@
-# VeganForum
+# World Vegan Forum
