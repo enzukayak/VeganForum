@@ -8,6 +8,8 @@ html{
 .titulo{
     font-style: italic;
     margin: auto;
+    color: blueviolet;
+    font-size: 15px;
 }
 
 .login{
