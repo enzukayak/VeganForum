@@ -2,6 +2,10 @@ html{
     background-color: bisque;
 }
 
+body{
+    margin: auto;
+}
+
 
 .titulo{
     font-style: italic;
