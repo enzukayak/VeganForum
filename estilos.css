@@ -4,9 +4,7 @@ html{
 
 
 .titulo{
-    font: blue;
-    margin-top: 20px;
-    margin: auto;
+    font: 5px blue;
 }
 
 .login{
