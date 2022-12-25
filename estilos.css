@@ -2,13 +2,12 @@ html{
     background-color: bisque;
 }
 
-body{
-    border: 10px red 0.5;
-}
+
 
 
 .titulo{
     font-style: italic;
+    margin: auto;
 }
 
 .login{
