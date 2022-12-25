@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    align-content: center;
+    border: 10px red 0.5;
 }
 
 
@@ -12,6 +12,7 @@ body{
 }
 
 .login{
+    margin: auto;
     border: solid 3px greenyellow;
     width: 300px;
 }
