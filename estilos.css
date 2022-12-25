@@ -6,3 +6,7 @@ html{
 .titulo{
     font: blue;
 }
+
+.login{
+    border: solid 3px greenyellow;
+}
