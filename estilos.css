@@ -5,6 +5,8 @@ html{
 
 .titulo{
     font: blue;
+    margin-top: 5px;
+    margin: auto;
 }
 
 .login{
